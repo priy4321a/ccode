@@ -1,0 +1,127 @@
+#topdiv{
+    height: 100px;
+    background-color: rgb(97,85,43);
+    display: flex;
+    justify-content: space-between;
+    border: solid 3px black;
+}
+#topsmalldiv
+{
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    width: 500px;
+    padding: 25px ;
+    
+
+}
+#topsearchdiv{
+    display: flex;
+    height: 100px;
+    width: 400px;
+    background-color: rgb(119,85,43);
+    color: rgb(39,7,0);
+    font-size: 20px;
+}
+#topsearch{
+    color: rgb(39,7,0);
+    font-size: 29px;
+    padding: 26px;
+}
+#searchbox
+{
+    margin-top: 59px;
+    height: 15px;
+}
+#topletter{
+    color: rgb(39,7,0);
+    font-size: 25px;
+}
+/* 2nd div */
+#seconddiv{
+   border: solid 3px black;
+    height: 300px;
+    background-color: orangered;
+}
+#secletter{
+    text-align: center;
+    color: rgb(23,14,106);
+    font-size: 30px;
+    padding: 19px;
+}
+#seclorem{
+    text-align: center;
+    color: rgb(23,14,106);
+}
+/* 3rd div */
+#thirddiv{
+    border: solid 3px black;
+    display: flex;
+    height: 400px;
+}
+#thirdinleftdiv{
+    height: 400px;
+    width: 450px;
+    background-color: rgb(179 123 42);
+}
+#thirdivletr{
+    padding: 23px 5px 1px 5px;
+    font-size: 47px;
+    color: rgb(47 9 0);
+}
+#thirdinrightdiv
+{
+    height: 400px;
+    width: 1200px;
+    background-color: rgb(168 183 57);
+}
+#thirrightletr{
+    padding: 23px 5px 1px 18px;
+    font-size: 50px;
+    color: rgb(30, 47, 0);
+}
+#thirrightlorem{
+    text-align: center;
+}
+/* 4th div */
+
+#fourthdiv{
+    height: 400px;
+    display: flex;
+}
+#fourleftdiv
+{
+    height: 500px;
+    width: 300px;
+    background-color: rgb(29, 125, 58);
+}
+#fourcenterdiv
+{
+    height: 500px;
+    width: 1000px;
+    background-color: rgb(159, 28, 104); 
+}
+#fourrightdiv
+{
+    height: 500px;
+    width: 300px;
+    background-color: goldenrod;
+}
+#fourleftletr{
+    font-size: 30px;
+    padding: 5px 5px 3px 7px;
+    color: black;
+}
+#forcenterletr{
+    font-size: 30px;
+    padding-left: 10px;
+}
+#fourrightimage{
+    
+    height: 250px;
+    padding-left: 20px;
+}
+#fourrightletr{
+    padding-left: 35px;
+    font-size: 40px;
+}

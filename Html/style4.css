@@ -1,0 +1,18 @@
+/* universal selector */
+*{
+    background-color: bisque;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-style: italic;
+}
+div{
+    box-sizing: border-box;
+    height: 200px;
+    width: 200px;
+    /* background-color: #952874; */
+    background-color: hsl(266, 100%, 50%);
+    /* border: 10px solid rgb(200, 200, 200); */
+    border: 10px solid rgba(1,255,0.8,0.2);
+    padding: 20px;
+}
